@@ -75,7 +75,7 @@ $ git reset HEAD .gitignore
 2. All change become 'unstaged'
 3. Use reset --hard carefully
 
-![image](D:\git note\doc\file_status.png)
+![alt text](https://raw.githubusercontent.com/fjordyo0707/GitNote/master/doc/file_status.png)
 
 
 
@@ -192,9 +192,9 @@ $ git merge <some_branch> --no-ff
 
 #### Rebase: Move your branch to another place
 
-![diagram](D:\git note\doc\rebase_diagram.png)
+![diagram](https://raw.githubusercontent.com/fjordyo0707/GitNote/master/doc/rebase_diagram.png)
 
-![image](D:\git note\doc\rebase1.png)
+![image](https://raw.githubusercontent.com/fjordyo0707/GitNote/master/doc/rebase1.png)
 
 ```Bash
 $ git rebase <new_base>
