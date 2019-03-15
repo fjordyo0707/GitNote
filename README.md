@@ -323,3 +323,9 @@ $ git push origin develop
 ```bash
 $ git push origin :<some_fixing_branch>
 ```
+
+## Lecture -08 (SSH on PC and Github)
+
+#### Read following document
+Generate a new ssh key and add it to ssh agent: https://help.github.com/en/articles/generating-a-new-ssh-key-and-adding-it-to-the-ssh-agent
+Add ssh key to your own github account: https://help.github.com/en/articles/adding-a-new-ssh-key-to-your-github-account
