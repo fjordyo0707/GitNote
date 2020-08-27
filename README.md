@@ -200,7 +200,7 @@ $ git merge <some_branch> --no-ff
 $ git rebase <new_base>
 # Rebase current branch to <new_branch>
 
-$ git rebase --onto <new_branch> <ref_commit> <>branch
+$ git rebase --onto <new base-commit> <current base-commit>
 # Rebase from common ancestor of <ref_commit> and <branch> 
 ```
 
