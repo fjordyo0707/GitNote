@@ -17,12 +17,12 @@ $ git commit
 ### Change  Configuration
 
 ```bash
-$ git config --global core.editor vim
-$ git config --global merge.tool vimdiff
-$ git config --global color.ui true 
-$ git config --global alias.st status
-$ git config --global alias.ck checkout
-$ git config --global alias.rst reset HEAD
+git config --global core.editor vim
+git config --global merge.tool vimdiff
+git config --global color.ui true 
+git config --global alias.st status
+git config --global alias.ck checkout
+git config --global alias.rst reset HEAD
 ```
 
 #### We store the configuration in 
